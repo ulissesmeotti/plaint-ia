@@ -1,0 +1,7 @@
+{
+  "name": "BioPlant AI",
+  "description": "Seu especialista em botânica e fitopatologia de bolso. Identifique plantas e diagnostique doenças com IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
